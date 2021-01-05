@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74777154/103534455-2ef48a00-4e8f-11eb-989e-9d7c0e21ba96.PNG" width="100%" height="500" />
+<img src="https://user-images.githubusercontent.com/74777154/103534455-2ef48a00-4e8f-11eb-989e-9d7c0e21ba96.PNG" width="100%" height="465" />
 
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A Full Stack Developer and PLC Software Developer.</h3>
